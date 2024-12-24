@@ -20,7 +20,7 @@
           <li><a href="#" class="hover:text-gray-300">Contact us</a></li>
         </ul>
       </nav>
-      <a href="#" class="bg-white text-gray-800 px-4 py-2 rounded hover:bg-gray-200 font-semibold">Subscribe</a>
+      <a href="/login" class="bg-white text-gray-800 px-4 py-2 rounded hover:bg-gray-200 font-semibold">Subscribe</a>
     </div>
   </header>
 
@@ -29,6 +29,7 @@
     <div class="container mx-auto px-6 lg:px-20">
       <article>
         <h1 class="text-4xl font-bold text-gray-800 mb-6">Step-by-step guide to choosing great font pairs</h1>
+        <img src="https://images.unsplash.com/photo-1551836022-aadb801c60ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG1lZXRpbmd8ZW58MHx8MHx8fDA%3D" alt="meet" class="w-full h-auto">
         <p class="text-gray-500 text-sm mb-4">By <a href="#" class="text-blue-600 hover:underline">Andrew Jonson</a> | Posted on 27th January 2022</p>
         
         <p class="text-gray-700 mb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec scelerisque. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non.</p>
@@ -50,7 +51,7 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
           <!-- Related Post Item -->
           <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="https://via.placeholder.com/300x200" alt="Post Image" class="w-full">
+            <img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWVldGluZ3xlbnwwfHwwfHx8MA%3D%3D" alt="Post Image" class="w-full">
             <div class="p-4">
               <p class="text-sm text-gray-500 mb-2">By John Doe | Aug 23, 2021</p>
               <h3 class="text-lg font-bold text-gray-800 mb-2">A UX Case Study Creating a Studious Environment for Students</h3>
@@ -60,7 +61,7 @@
 
           <!-- Related Post Item -->
           <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="https://via.placeholder.com/300x200" alt="Post Image" class="w-full">
+            <img src="https://images.unsplash.com/photo-1523908511403-7fc7b25592f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1lZXRpbmd8ZW58MHx8MHx8fDA%3D" alt="Post Image" class="w-full">
             <div class="p-4">
               <p class="text-sm text-gray-500 mb-2">By John Doe | Aug 23, 2021</p>
               <h3 class="text-lg font-bold text-gray-800 mb-2">A UX Case Study Creating a Studious Environment for Students</h3>
@@ -70,7 +71,7 @@
 
           <!-- Related Post Item -->
           <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="https://via.placeholder.com/300x200" alt="Post Image" class="w-full">
+            <img src="https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1lZXRpbmd8ZW58MHx8MHx8fDA%3D" alt="Post Image" class="w-full">
             <div class="p-4">
               <p class="text-sm text-gray-500 mb-2">By John Doe | Aug 23, 2021</p>
               <h3 class="text-lg font-bold text-gray-800 mb-2">A UX Case Study Creating a Studious Environment for Students</h3>
